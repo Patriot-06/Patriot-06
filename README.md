@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on (Realme X3 Series)
-- 🌱 I’m currently learning more about linux kernel
+- 🌱 I’m currently learning more about Linux kernel
 - 🤔 I’m looking for Help with Android
 - 📫 How to reach me: [Telegram - @patriot235](https://t.me/patriot_235)
 - 😄 Pronouns: He/His
