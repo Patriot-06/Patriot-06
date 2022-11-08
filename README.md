@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on (Realme X3 Series)
 - 🌱 I’m currently learning more about Linux kernel
 - 🤔 I’m looking for Help with Android
-- 📫 How to reach me: [Telegram - @patriot235](https://t.me/patriot_235)
+- 📫 How to reach me: [Telegram](https://t.me/patriot_235)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Spend Most of My Time Watching Anime & Listen to Lofi Beats
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Patriot-06&style=flat-square" alt="Patriot-06"></p>
